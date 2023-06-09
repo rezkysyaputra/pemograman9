@@ -1,0 +1,15 @@
+/Users/rezky/Projects/pemrorg9/pemrorg9/obj/Debug/net7.0/pemrorg9.csproj.AssemblyReference.cache
+/Users/rezky/Projects/pemrorg9/pemrorg9/obj/Debug/net7.0/pemrorg9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rezky/Projects/pemrorg9/pemrorg9/obj/Debug/net7.0/pemrorg9.AssemblyInfoInputs.cache
+/Users/rezky/Projects/pemrorg9/pemrorg9/obj/Debug/net7.0/pemrorg9.AssemblyInfo.cs
+/Users/rezky/Projects/pemrorg9/pemrorg9/obj/Debug/net7.0/pemrorg9.csproj.CoreCompileInputs.cache
+/Users/rezky/Projects/pemrorg9/pemrorg9/bin/Debug/net7.0/pemrorg9
+/Users/rezky/Projects/pemrorg9/pemrorg9/bin/Debug/net7.0/pemrorg9.deps.json
+/Users/rezky/Projects/pemrorg9/pemrorg9/bin/Debug/net7.0/pemrorg9.runtimeconfig.json
+/Users/rezky/Projects/pemrorg9/pemrorg9/bin/Debug/net7.0/pemrorg9.dll
+/Users/rezky/Projects/pemrorg9/pemrorg9/bin/Debug/net7.0/pemrorg9.pdb
+/Users/rezky/Projects/pemrorg9/pemrorg9/obj/Debug/net7.0/pemrorg9.dll
+/Users/rezky/Projects/pemrorg9/pemrorg9/obj/Debug/net7.0/refint/pemrorg9.dll
+/Users/rezky/Projects/pemrorg9/pemrorg9/obj/Debug/net7.0/pemrorg9.pdb
+/Users/rezky/Projects/pemrorg9/pemrorg9/obj/Debug/net7.0/pemrorg9.genruntimeconfig.cache
+/Users/rezky/Projects/pemrorg9/pemrorg9/obj/Debug/net7.0/ref/pemrorg9.dll
